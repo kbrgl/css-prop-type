@@ -1,0 +1,26 @@
+{
+  "name": "css-prop-type",
+  "version": "1.0.0",
+  "description": "`prop-types` PropType for CSS (i.e. `PropTypes.oneOfType([PropTypes.number, PropTypes.string]`)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbrgl/css-prop-type.git"
+  },
+  "keywords": [
+    "react",
+    "prop-types",
+    "proptype",
+    "css",
+    "style"
+  ],
+  "author": "Kabir Goel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbrgl/css-prop-type/issues"
+  },
+  "homepage": "https://github.com/kbrgl/css-prop-type#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
